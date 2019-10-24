@@ -7,5 +7,6 @@ class App < Sinatra::Base
   end
   
   get '/hometown'
-  
+    "My hometown is "
+  end
 end
